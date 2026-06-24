@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Braceyourself1
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics, cybersecurity, and policy improvement
 - 🌱 I’m currently learning SQL, Python, Postman, and Tableau
 - 💞️ I’m looking to collaborate on any data analytic projects for novices
 - 📫 How to reach me - through Github
