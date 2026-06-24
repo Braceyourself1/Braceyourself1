@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Braceyourself1
+- 👋 Hi, my name is Zach
 - 👀 I’m interested in data analytics, cybersecurity, and policy improvement
 - 🌱 I’m currently learning SQL, Python, Postman, and Tableau
 - 💞️ I’m looking to collaborate on any data analytic projects for novices
